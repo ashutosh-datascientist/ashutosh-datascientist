@@ -71,9 +71,6 @@ Built using RAG, LangChain, Vector Databases, and LLMs.
 ## 💳 Credit Risk Analysis
 Machine Learning project for predicting loan default risk.
 
-## 🕵️ AI Fraud Detection System
-Fraud detection using ML & anomaly detection techniques.
-
 ## 🩺 PCOS Prediction System
 Machine Learning-based healthcare project for predicting PCOS using patient health parameters and data analysis techniques.
 
