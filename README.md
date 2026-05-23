@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Shinde</h1>
 
 <h3 align="center">
-Data Scientist | 3 Years Exp | Machine Learning • Generative AI • RAG • AWS
+Associate Data Scientist | 3 Years Exp | Machine Learning • Generative AI • RAG • AWS
 </h3>
 
 <p align="center">
